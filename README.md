@@ -22,6 +22,9 @@ Use Arduino to read signal from RC transmiter, program some smart features to su
 ## References
 -Arduino Documentation
 
+## Video
+Youtube: https://youtu.be/UOrtT1AsIv8
+
 ## Author 
 Tú Khôi
 tukhoi314156@gmail.com
